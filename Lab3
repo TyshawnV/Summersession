@@ -1,17 +1,17 @@
 # Executive Summary
 
-For Lab 3, I will be discussing software, the part of computer that speaks to the hardware. Software uses programming language for of the computer to interact with the hardware, it can be seperated by two categories operating and application software. Operating system then talks to the hardware to ceate an interface for the user. Application software does various task as word processing, video games, and data bases.
+For Lab 3, I will be discussing software, the part of computer that speaks to the hardware. Software uses programming language for of the computer to interact with the hardware, it can be seperated by two categories operating and application software. 
 
 # Software
-* Explain the roles of application, utility and operating system software.  Give an example of each.  
-* Explain the purpose of ERP software and provide an uexample.  
-* Explain the purpose of virtualization and describe how it differs from cloud computing. 
+* You have Operating and Application as the main components of software. Operating system talks to the hardware to ceate an interface for the user, so it's like your Windows or IOS is comunticating to the hardware. Application software does various task as word processing, video games, and data bases.
+* Enterprise Resource Planning(ERP) is used for a variety of business functions. Most commonly analytics, improved productivity, imporved colaboration, and happier customers.  This will make a company run a successful business machine.  
+* The purpose of virtualization the creation of a virtual resource such as a server, desktop, operating system, file, storage or network. It differs from cloud computing, as virtualization makes one resource act as multiple, and cloud computing lets different users use multiple resources. 
 # Python
 * Follow the tasks for pythong coding. Then upload screenshot of python code (named Python) and output to this folder
 
 # Virtualization
-* What types of problems are solved with virtualization? 
-* What role does hypervisor play in virtualization? 
+* Virtualization allows the users to make one resource into multiple this cancels out your CPU using more memmory on your computer. 
+* The role the hypervisor play in virtualization is a vm monitor. You can create mulitple vms and manage them in virtualization, it allows the computer of one host to run multiple options.
 
 # Career Exploration
 ## Career Exploration
@@ -25,7 +25,7 @@ For Lab 3, I will be discussing software, the part of computer that speaks to th
 Report your findings including job title, salary and projected growth. You can upload a screenshot if you want.
 
 ## Industry Certification
-* Explore a certification and report your findings. (CompTIA , Cisco , CISSP or any other certification)
+* I explored the Cisco 
 
 ## College Certificates
 * Explore the Tri-C certificates at: Tri-C IT Programs and report on a certificate of interest (short-term or post-degree.)
@@ -35,4 +35,4 @@ Report your findings including job title, salary and projected growth. You can u
 * Pick one of the IT organizations like IEEE or ACM or a student club and report the purpose of the organization and why membership would be beneficial.
 
 # Conclusion
-Summary of your understanding from this week's lab
+The software is the backbone of the computer. Software make the computer stand up tall, it gives the user and  

@@ -41,15 +41,14 @@ Protocol:
 
 # Cybersecurity and Encryption
 
-* Imagine you are part of the Amazon.com online chat. Explain how each component of the security triad would impact your job
-* Identify three daily tasks that require authentication. Explain how each one could be converted to multi-factor authentication
-* Explain ACL and RBAC. What are the advantages and disadvantages of each?
-* Explain the interaction of ciphertext, a public key and a private key
-* Explain why we need public key cryptography.
+* In the security triad you have confidentiality, integrity, and availability all three are an essential part in a well run company. Confidentiality is used to protect users information against unauthorized disclosure of their information. Integrity gives the user protection over unauthorized modifications like add, delete, or change of data. Availabiltiy is protecting the functionality of support systems and ensuring data is fully available at the point in time  or period requirements by its users. All of these factor into a well oiled business machine 
+* Three daily tasks that require authentication is password, smart card, and fingerprint. Multi-factor authentication can be applied in the daily authentication. Passwords in MFA, can be setup verification code or choose the picture with the car to authentication. Smart card authentication method is via pin a series a number. Fingerprint MFA is a biometric way of authentication via finger print DNA.   
+* An ACL is a list of permissions attached to an object, it specifies which user and processes are granted access and RBAC (Roll Bases Access Control) defining a list and adding each user in the system to one and more roles. The disadvantages of ACL is you can only assign them to a single user and RBAC is more collective group of permissions. 
+* The interaction of ciphertext, is an encryption of plain text using algorithim like a public key that is only used encrypt data and to decrypt the data, and a private key is used to both encrypt and decrypt the data and is shared between the sender and receiver of encrypted data.* Explain why we need public key cryptography.
 
 ## Cryptography
 * Type a message in the "Caesar Cipher Exploration box and turn the wheel to encrypt your message.
-Then explain the encryption here:
+Then explain the encryption here: I wrote "Juiceman got the trap jumping" Output was "fqeyaiwj ckp pda pda pnwl fqilejc"
 
 * Type a message in the "Frequency Fingerprint Exploration" box and a) Explain the result.
 b) Would it be different for different languages?
@@ -59,7 +58,7 @@ Type a message in the "Polyalphabetic Exploration" box as well as a shift word.
 Explain the result.
 
 ## Brute Force
-* What is Brute-Force and how does it relate to Kerckhoffs's principle?
+* Brute-Force is the action of of force through applications though constant attacks to the user device, it relates to Kerckhoffs's principle that states that the security of a cryptosystem must lie in the choice of its keys only
 
 # Conclusion
-Summarize how this lab was useful to you and what you learnt that really interested you!
+Networking and Security is the core foundation of a well oil business machine. You have to be ale to communicate to people and what a better way than via internet. Where people from all walks of life share information, and personal data over the web, it makes everyone neighbors by the click of a button. You have to have security as well and if you're going to share personal data, it has to be encrypted, as you would'nt want valuable information leaked out.
